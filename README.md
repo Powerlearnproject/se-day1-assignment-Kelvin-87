@@ -67,4 +67,4 @@ importance: improved user experience,increase flexibilty and developer control
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 example: tell me about technology.
-imroved prompt:explain the impact of ai in healthcare and busness industry in two paragraphs
+improved prompt:explain the impact of ai in healthcare and busness industry in two paragraphs
